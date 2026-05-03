@@ -2,6 +2,8 @@
 
 API REST em Flask para o SoundCircle, uma rede social de descoberta e avaliação musical.
 
+**Deploy:** http://100.48.20.219/
+
 ---
 
 ## Stack
